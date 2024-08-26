@@ -1,0 +1,1 @@
+Jogo de palavra secreta criado em Python.
